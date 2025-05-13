@@ -4101,3 +4101,5 @@ coverage
 # Editor directories and files
 .vscode/*
 !.vsc
+
+/public/textures/*
