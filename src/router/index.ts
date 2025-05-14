@@ -10,11 +10,6 @@ const router = createRouter({
       component: ModelView
     },
     {
-      path: '/gallery',
-      name: 'gallery',
-      component: () => import('../views/ModelGallery.vue')
-    },
-    {
       path: '/about',
       name: 'about',
       // route level code-splitting
