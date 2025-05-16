@@ -1,9 +1,11 @@
 <template>
-  <CapoeiraViewer />
+  <SketchViewer />
+  <!-- <CapoeiraViewer /> -->
 </template>
 
 <script setup>
 import CapoeiraViewer from './components/CapoeiraViewer.vue';
+import SketchViewer from './components/SketchViewer.vue';
 </script>
 
 <style>
