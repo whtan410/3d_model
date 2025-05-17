@@ -1,0 +1,27 @@
+{
+  "questions": [
+    {
+      "question": "Your teacher is showing the class how to do a science experiment. How do you understand it best?",
+      "options": [
+        "By watching what the teacher is doing.",
+        "By listening carefully to what the teacher says.",
+        "By reading the steps on the worksheet.",
+        "By trying the experiment yourself."],
+      "correctAnswer": 0,
+      "explanation": "The Newton (N) is the SI unit of force, defined as the force needed to accelerate 1 kg of mass at 1 meter per second squared."
+    },
+    {
+      "question": "Which law of motion states that for every action, there is an equal and opposite reaction?",
+      "options": ["First Law", "Second Law", "Third Law", "Law of Conservation"],
+      "correctAnswer": 2,
+      "explanation": "Newton's Third Law of Motion states that for every action force, there is an equal and opposite reaction force."
+    },
+    {
+      "question": "What is the SI unit of electric current?",
+      "options": ["Volt", "Watt", "Ampere", "Ohm"],
+      "correctAnswer": 2,
+      "explanation": "The Ampere (A) is the SI unit of electric current, measuring the flow of electric charge."
+    }
+  ],
+  "responses": []
+}
